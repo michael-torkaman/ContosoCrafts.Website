@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vATQdELL/Xa0qGAgUyhgNx1byMdwLmUeF4aSFxyDYjTlRtshZuQcgSNXsSXb5JR5WDxY5NtmvnO/HQ4BChqfnA==",
+  "dgSpecHash": "L3CXzXkFPHIcED4ss4/2J6DOrgsjS2CCkaJ1djrxQLOOahP+zepRc8jk0whxYd2j2gGgj4giFIVwS8Zm0GHZPg==",
   "success": true,
-  "projectFilePath": "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/ContosoCrafts.WebSite.csproj",
+  "projectFilePath": "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/ContosoCrafts.WebSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

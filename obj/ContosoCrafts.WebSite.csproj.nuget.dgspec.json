@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/ContosoCrafts.WebSite.csproj": {}
+    "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/ContosoCrafts.WebSite.csproj": {}
   },
   "projects": {
-    "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/ContosoCrafts.WebSite.csproj": {
+    "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/ContosoCrafts.WebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/ContosoCrafts.WebSite.csproj",
+        "projectUniqueName": "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/ContosoCrafts.WebSite.csproj",
         "projectName": "ContosoCrafts.WebSite",
-        "projectPath": "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/ContosoCrafts.WebSite.csproj",
+        "projectPath": "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/ContosoCrafts.WebSite.csproj",
         "packagesPath": "/home/tekebai/.nuget/packages/",
-        "outputPath": "/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/obj/",
+        "outputPath": "/home/tekebai/Documents/seattleu/ContosoCrafts.Website/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tekebai/.nuget/NuGet/NuGet.Config"

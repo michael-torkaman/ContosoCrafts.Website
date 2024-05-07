@@ -1,4 +1,7 @@
-﻿namespace ContosoCrafts.WebSite.Models;
+﻿using System.Text.Json;
+using System.Text.Json.Serialization;
+
+namespace ContosoCrafts.WebSite.Models;
 
 public class Product
 {
@@ -11,6 +14,5 @@ public class Product
     public string Title { get; set; }
     public string Description { get; set; }
 
-    public override ToString() => JsonSerializer.Serialize<Product>(this);
-    
+    public override string ToString() => JsonSerializer.Serialize(this);
 }

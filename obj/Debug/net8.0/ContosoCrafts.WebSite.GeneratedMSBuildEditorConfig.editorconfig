@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContosoCrafts.WebSite
 build_property.RootNamespace = ContosoCrafts.WebSite
-build_property.ProjectDir = /home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/
+build_property.ProjectDir = /home/tekebai/Documents/seattleu/ContosoCrafts.Website/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite
+build_property.MSBuildProjectDirectory = /home/tekebai/Documents/seattleu/ContosoCrafts.Website
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/Error.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/Index.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/Privacy.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/_ViewImports.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/_ViewStart.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/tekebai/Documents/seattleu/softfund/ContosoCrafts.WebSite/Pages/Shared/_Layout.cshtml]
+[/home/tekebai/Documents/seattleu/ContosoCrafts.Website/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-68nrxxillw
